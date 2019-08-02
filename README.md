@@ -1,4 +1,4 @@
-# Write-A-Data-Science-Blog-Post
+# Dog Breed Classifier Project
 This project was completed as part of the course requirements of [Udacity's Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification.
 
 <li><a href="#Installation">Installation</a></li>
