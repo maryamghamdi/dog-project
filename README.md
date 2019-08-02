@@ -37,7 +37,7 @@ Examples of output:
 
 
 # Licensing:
-see this [file](LICENSE.txt) 
+Read it in this [file](LICENSE.txt) 
 
 
 
