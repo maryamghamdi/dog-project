@@ -5,6 +5,7 @@ This project was completed as part of the course requirements of [Udacity's Data
 <li><a href="#Project Overview">Project Overview</a></li>
 <li><a href="#File Descriptions">File Descriptions</a></li>
 <li><a href="#Results">Results</a></li>
+<li><a href="#Licensing">Licensing</a></li>
 
 # Installation:
 Python version 3
@@ -35,6 +36,8 @@ Examples of output:
 ![Sample Output](images/human1.png)
 
 
+# Licensing:
+see this [file](Licensing.txt) 
 
 
 
