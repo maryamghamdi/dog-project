@@ -29,7 +29,7 @@ In this project, we build a pipeline that can be used within a web or mobile app
 
 # Results:
 The main findings of the code can be found at the post available [here](https://medium.com/@mhnghamdi/dog-identification-app-75f9d92a4990)
-
+Examples of output:
 ![Sample Output](images/dog1.png)
 ![Sample Output](images/dog2.png)
 ![Sample Output](images/human1.png)
